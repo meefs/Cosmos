@@ -76,4 +76,4 @@ Being a minimalist, we have these individual models in individual repositories u
 </table>
 
 ### Developer
-For native PyTorch developers, we provide native PyTorch training and inference scripts in [nvidia-github](https://github.com/nvidia-cosmos). For Nemo developers, please refer to [README_CES2025.md](README_CES2025.md).
+For native PyTorch developers, we provide native PyTorch training and inference scripts in [nvidia-github](https://github.com/nvidia-cosmos). For Nemo developers, please refer to [NVIDIA NeMo](https://github.com/NVIDIA/NeMo).
